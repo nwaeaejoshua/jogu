@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+.header .nav{
+    background-color: rgb(30, 97, 30);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ .header .nav .logo{
+    width: 5px;
+}
+.nav .link{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.nav .link a{
+    color: white;
+    text-decoration: none;
+}
+.header .nav .buttom{
+    color: white;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding: 10px;
+}
+.header .nav .buttom img{
+    width: 12px;
+    height: 10px;
+}
+.header .hero{
+    background-color: rgb(3, 46, 3);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.header .hero .text .texts{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.text .texts span{
+    font-size: 30px;
+    font-weight: 900;
+}
+.text .texts small{
+    font-size: 15px;
+}
+.hero .text .button button{
+    border-radius: 50px;
+    bac
+
