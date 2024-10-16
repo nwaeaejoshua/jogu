@@ -49,5 +49,9 @@ body{
 }
 .hero .text .button button{
     border-radius: 50px;
-    bac
 
+}
+.header .nav .logo{
+display: flex;
+
+}
